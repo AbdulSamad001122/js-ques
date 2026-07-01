@@ -6,8 +6,7 @@ function sum(a, b) {
 
 // Question 2: Return true if the number is even, and false if it is odd
 function isEven(num) {
-  // TODO: Write your code here
-  return null;
+  return num % 2 === 0;
 }
 
 // Question 3: Return "Grade A" if score is 90 or above,
